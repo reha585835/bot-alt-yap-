@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 const Advanced = require('discordjs-advanced');
                          
 const client = new Advanced.Client({
-    token: "NzMwODA3MjIxODg5MjY5ODEw.Xwc3jw.ZBtkZpt0xqCPzd8eLLR0smNnRj0",
+    token: "token bilginiz",
     prefix: "a!",
     sahip: ["498501022126440467"],     
     komutDosya: "komutlar",
