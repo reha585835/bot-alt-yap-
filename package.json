@@ -1,0 +1,19 @@
+{
+  "name": "mekanikbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "node index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "mekanikbot"
+  ],
+  "author": "Harun Reha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discordjs-advanced": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}
